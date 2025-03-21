@@ -5,6 +5,8 @@
 
 A simple yet powerful command-line interface (CLI) tool for managing tasks. This tool allows users to add, list, and delete tasks stored in a JSON file 📁.
 
+![screencast](advanced_cli_task_manager/t-rec.gif)
+
 ## Table of Contents
 
 - [CLI Task Manager 📝](#cli-task-manager-)
