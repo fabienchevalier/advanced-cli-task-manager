@@ -32,6 +32,9 @@ A simple yet powerful command-line interface (CLI) tool for managing tasks. This
     pip install -r requirements.txt
 ```
 
+>[!NOTE]
+>You can set a custom task file path using the `TASK_FILE_PATH` environment variable. By default, the tasks are stored in `tasks.json`.
+
 - Add a new task with an optional priority level:
 
 ```bash
