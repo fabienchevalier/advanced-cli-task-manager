@@ -26,6 +26,12 @@ A simple yet powerful command-line interface (CLI) tool for managing tasks. This
 
 ## Getting started
 
+- Use `pyenv` to install Python 3.13.2:
+
+```bash
+    pyenv install 3.13.2
+```
+
 - Install requirements :
 
 ```bash
